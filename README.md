@@ -14,6 +14,10 @@ bnhbghgh
 ### Diseño
 #### Esquemas eléctricos o electrónicos
 Proyecto-1 ard (2) .fzz
+Proyecto-1 ard (2) _bb.jpg	
+Proyecto-1 ard (2) _esquema.jpg	
+Proyecto-1 ard (2) _etch_copper_bottom.pdf	
+Proyecto-1 ard (2) _pcb.jpg
 #### Prototipo 
 - Breadboard (_tarea del diseñador_)
 - Modelo 3D (_tarea del diseñador_)
