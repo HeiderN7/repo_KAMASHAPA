@@ -13,7 +13,7 @@ bnhbghgh
 
 ### Diseño
 #### Esquemas eléctricos o electrónicos
-_tarea del diseñador_
+Proyecto-1 ard (2) .fzz
 #### Prototipo 
 - Breadboard (_tarea del diseñador_)
 - Modelo 3D (_tarea del diseñador_)
